@@ -15,6 +15,8 @@
 - Q-Learning converges faster in deterministic environments
 - SARSA performs more cautiously in stochastic environments
 - Value Iteration converges in just 6 iterations
+- <img width="900" height="500" alt="Figure_7" src="https://github.com/user-attachments/assets/ccd28829-c1dc-4ab3-9110-d403adf797eb" />
+
 
 ## How to Run
 ```bash
