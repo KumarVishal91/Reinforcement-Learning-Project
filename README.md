@@ -26,7 +26,6 @@ The goal of this project is to understand and analyze how different RL algorithm
   <img src="https://github.com/user-attachments/assets/cab45169-541d-4a31-bfc8-757269b98cf8" width="300"/>
   <img src="https://github.com/user-attachments/assets/7133e4a1-caa3-4076-a515-d00ef70af2e3" width="500"/>
 </p>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ccd28829-c1dc-4ab3-9110-d403adf797eb" width="500"/>
 </p>
