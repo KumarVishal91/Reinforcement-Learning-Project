@@ -24,9 +24,11 @@ I have implemented both model-based and model-free approaches and compared their
 - SARSA performs more cautiously in stochastic environments
 - Value Iteration converges in just 6 iterations
 ## Visualizations
-  <img width="600" height="600" alt="Figure_" src="https://github.com/user-attachments/assets/cab45169-541d-4a31-bfc8-757269b98cf8" />
-  <img width="1400" height="600" alt="Figure" src="https://github.com/user-attachments/assets/7133e4a1-caa3-4076-a515-d00ef70af2e3" />
-  <img width="900" height="500" alt="Figure_7" src="https://github.com/user-attachments/assets/ccd28829-c1dc-4ab3-9110-d403adf797eb" />
+  <img src="https://github.com/user-attachments/assets/cab45169-541d-4a31-bfc8-757269b98cf8" width="250" height="250" />
+
+<img src="https://github.com/user-attachments/assets/7133e4a1-caa3-4076-a515-d00ef70af2e3" width="400" height="180" />
+
+<img src="https://github.com/user-attachments/assets/ccd28829-c1dc-4ab3-9110-d403adf797eb" width="300" height="170" />
   
 ## How to Run
 ```bash
