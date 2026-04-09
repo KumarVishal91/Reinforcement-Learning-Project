@@ -22,11 +22,14 @@ The goal of this project is to understand and analyze how different RL algorithm
 - SARSA performs more cautiously in stochastic environments
 - Value Iteration converges in just 6 iterations
 ## Visualizations
-  <img src="https://github.com/user-attachments/assets/cab45169-541d-4a31-bfc8-757269b98cf8" width="250" height="250" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cab45169-541d-4a31-bfc8-757269b98cf8" width="300"/>
+  <img src="https://github.com/user-attachments/assets/7133e4a1-caa3-4076-a515-d00ef70af2e3" width="500"/>
+</p>
 
-<img src="https://github.com/user-attachments/assets/7133e4a1-caa3-4076-a515-d00ef70af2e3" width="400" height="180" />
-
-<img src="https://github.com/user-attachments/assets/ccd28829-c1dc-4ab3-9110-d403adf797eb" width="300" height="170" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ccd28829-c1dc-4ab3-9110-d403adf797eb" width="500"/>
+</p>
   
 ## How to Run
 ```bash
