@@ -1,10 +1,8 @@
 # Reinforcement Learning — MDP Implementation
-##Overview
-
+## Overview
 The goal of this project is to understand and analyze how different RL algorithms behave under:
    -Deterministic environments
    -Stochastic environments (with uncertainty)
-I have implemented both model-based and model-free approaches and compared their performance using learning curves and convergence analysis
 ## Algorithms Implemented
 - Value Iteration
 - Policy Iteration
